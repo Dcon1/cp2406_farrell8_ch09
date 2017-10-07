@@ -1,5 +1,6 @@
 /**
  * Created by danny on 7/10/2017.
+ * Used the solutions alot for this one.  Still getting confused on classes
  */
 public class Participant
 {
